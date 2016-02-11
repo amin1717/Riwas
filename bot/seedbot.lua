@@ -250,7 +250,7 @@ Our channels
 @teleseedch [English]
 @iranseed [persian]
 ]],
-    help_text_realm = [118587525[
+    help_text_realm = [[
 Realm Commands:
 
 !creategroup [Name]
